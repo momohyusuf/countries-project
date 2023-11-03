@@ -1,0 +1,17 @@
+.navbar--brand {
+  font-weight: 900;
+}
+
+.search--bar--container {
+  max-width: 400px;
+  width: 100%;
+}
+#all--countries--container {
+  margin-block: 3rem;
+}
+
+@media screen and (max-width: 480px) {
+  #all--countries--container {
+    margin-inline: 0.5rem;
+  }
+}
