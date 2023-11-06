@@ -7414,9 +7414,7 @@ const allCountiresConatianer = document.getElementById(
 );
 const searchCountryValue = document.getElementById("country--search--value");
 const searchCountryBtn = document.getElementById("search--country--btn");
-const singleCountryModal = document.getElementById(
-  (id = "single--country--modal")
-);
+const singleCountryModal = document.getElementById("single--country--modal");
 
 let countriesToDisplay = [];
 
